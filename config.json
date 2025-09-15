@@ -1,0 +1,12 @@
+{
+    "Controls": 
+        {
+            "interact": "q",
+            "left": "a",
+            "right": "d",
+            "reel_in": "home"
+        },
+    "GameTitle":"TL 1.365.22.4243",
+    "AHK":"C:\\Program Files\\AutoHotkey\\AutoHotKey.exe",
+    "Model":"./runs/detect/train2/weights/best.pt"
+}
